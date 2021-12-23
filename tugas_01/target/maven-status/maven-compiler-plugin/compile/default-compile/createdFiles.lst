@@ -1,0 +1,9 @@
+web\service\tugas_01\databaseController_json.class
+web\service\tugas_01\DataMahasiswa.class
+web\service\tugas_01\Tugas01Application.class
+web\service\tugas_01\databaseController_xml.class
+web\service\tugas_01\DataMahasiswa_.class
+web\service\tugas_01\DataMahasiswaJpaController.class
+web\service\tugas_01\exceptions\NonexistentEntityException.class
+web\service\tugas_01\exceptions\IllegalOrphanException.class
+web\service\tugas_01\exceptions\PreexistingEntityException.class
